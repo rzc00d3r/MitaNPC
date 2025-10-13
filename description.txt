@@ -1,0 +1,119 @@
+################ English ################
+Your personal Mitas from MiSide in Terraria!!!
+
+Adds various items and 4 new NPCs from MiSide game: Crazy Mita, Cappie, Mila, Player
+All NPCs have 2 variants of voice and text: Russian + Russian, Japanese + English
+
+--- Mitas ---
+
+Shop (Crazy Mita):
+1. Game Cartridge
+2. Carrot
+3. Travel Ring (Conditions of sale: World in Hardmode, all mechanical bosses defeated) - Analog of the Normality Relocator from Calamity, Default HotKey is Q
+4. Psycho Knife (Conditions of sale: World in hardmode, during Blood Moon)
+
+Shop (Cappie):
+1. Mita's Cap
+
+Shop (Mila):
+1. Mila's Book
+2. Martial Arts Manual
+3. Shooters Manual
+4. Magicians Manual
+5. Pokemon Manual
+
+Happiness conditions:
+ - Biomes:
+   Loves: Forest
+   Likes: Underground
+   Dislikes: Hallow biome and Jungle
+ - NPCs:
+   Loves: Player
+   Likes: ...
+   Dislikes: ...
+   Hates: All female NPCs (Nurse, Zoologist, Dryad, Stylist, Mechanic, Party Girl, Steampunker, Princess)
+
+Spawn conditions: Always (during the day)
+
+--- Player ---
+
+Shop:
+1. Game Console
+2. Ramen
+3. Alarm Clock
+
+Happiness conditions:
+ - Biomes:
+   Loves: Forest
+   Likes: Hallow biome
+   Dislikes: Desert and Underground
+ - NPCs:
+   Loves: Mita
+   Likes: ...
+   Dislikes: ...
+   Hates: All female NPCs (Nurse, Zoologist, Dryad, Stylist, Mechanic, Party Girl, Steampunker, Princess)
+
+Spawn conditions: Always (during the day)
+
+Source code of the mod: https://github.com/rzc0d3r/MitaNPC
+Discord channel: https://discord.gg/yX3VjHwu3B
+
+################ Русский ################
+Ваши личные Миты из MiSide в Terraria!!!
+
+Добавляет различные предметы и 4 новых NPC из игры MiSide: Сумасшедшую Миту, Кепочку, Милу, Игрока
+Все NPC имеют 2 варианта озвучки и текста: Русский + Русский, Японский + Английский
+
+--- Миты ---
+
+Магазин (Сумасшедшая Мита):
+1. Игровой картридж
+2. Морковка
+3. Кольцо путешественника (Условия продажи: Мир в Хардмоде, Побеждены все механические боссы) - Аналог Релокатора нормальной формы из Calamity, Горячая клавиша по умолчанию - Q
+4. Нож психа (Условия продажи: Мир в Хардмоде, во время Кровавой Луны)
+
+Магазин (Кепочка):
+1. Кепочка Миты
+
+Магазин (Мила):
+1. Книга Милы
+2. Руководство по боевым искусствам (Постоянное усиление)
+3. Руководство для стрелка (Постоянное усиление)
+4. Руководство для мага (Постоянное усиление)
+5. Руководство по покемонам (Постоянное усиление)
+
+Условия Счастья:
+ - Биомы:
+   Любит: Лес
+   Нравится: Подземелья
+   Не нравится: Святой биом и Джунгли
+ - NPCs:
+   Любит: Игрока
+   Нравится: ...
+   Не нравится: ...
+   Ненавидит: Всех женских НПС (Медсестру, Зоолога, Дриаду, Стилиста, Механика, Тусовщицу, Стимпанкера, Принцессу)
+
+Условия спавна: Всегда (в дневное время)
+
+--- Игрок ---
+
+Магазин:
+1. Игровая консоль
+2. Рамен
+3. Будильник
+
+Условия Счастья:
+ - Биомы:
+   Любит: Лес
+   Нравится: Святой биом
+   Не нравится: Пустыня и Подземелье
+ - NPCs:
+   Любит: Миту
+   Нравится: ...
+   Не нравится: ...
+   Ненавидит: Всех женских НПС (Медсестру, Зоолога, Дриаду, Стилиста, Механика, Тусовщицу, Стимпанкера, Принцессу)
+
+Условия спавна: Всегда (в дневное время)
+
+Исходный код: https://github.com/rzc0d3r/MitaNPC
+Discord канал: https://discord.gg/yX3VjHwu3B

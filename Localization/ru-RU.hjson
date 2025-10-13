@@ -1,0 +1,295 @@
+Mods: {
+	MitaNPC: {
+		NPCs: {
+			Mita: {
+				DisplayName: Мита
+				BestiaryDescription:
+					'''
+					Представленная как очаровательная и, казалось бы, невинная девушка, Мита является главным персонажем в MiSide.
+					Однако под ее милой и доброй внешностью скрывается темная тайна...
+					Мита скрывает эту тайну, чтобы поддерживать дружбу с игроком, при этом сохраняя иллюзию невинности.
+					'''
+
+				StandartMitaDialogue: {
+					Greeting1: Рада знакомству, {0}!
+					Greeting2: Привет! Я Мита!
+					NightPhrase1: Ты кто-о?
+					NightPhrase2: Дай поспать...
+					NightPhrase3: А?
+					NightPhrase4: Ты чего?
+					NightPhrase5: Угум.
+					NightPhrase6: Чего?
+					NightPhrase7: Я в полном порядке...
+					YouUsingDigitsInName: Эй, ты используешь числа в имени? У тебя совсем не хватает фантазии
+				}
+
+				MitaCappieDialogue: {
+					Greeting1: Салют!
+					Greeting2: Я Мита!
+					Phrase1: О-ой!
+					Phrase2: Ах, Ты!
+					Phrase3: Уху-у-у!
+					Phrase4: Тыц-тыц-тыц!
+					Phrase5: Вот это тряска у тебя!
+				}
+
+				MilaDialogue: {
+					Greeting1: Я Мила.
+					Greeting2: Чего тебе?
+					Greeting3: Вообще-то, я Мила. Не как прочие.
+					Greeting4: Я мила и точка!
+					Phrase1: Знай, если мой дом взорвётся - ты труп!
+					Phrase2: Не зли меня!
+					Phrase3: Ага...
+					Phrase4: Бойся меня!
+					Phrase5: Ай!
+					Phrase6: О-oх!
+					Phrase7: Ой.
+					Phrase8: Ты прости, я не хотела...
+					Phrase9: Ну и чего пялишься
+					Phrase10: Не смотри на меня так долго!
+					Phrase11: Дурак...
+					Phrase12: Это не культурно - смотреть в сторону девушки!
+					Phrase13: Отстань!
+					Phrase14: Чего молчим?
+					Phrase15: Язык проглотил?
+					Phrase16: Решительно отказываюсь от моркови?
+					Phrase17: Знаешь, я фетишистов недолюбливаю! Любителей моркови, всяких развратных штучек...
+					Phrase18: Сделай лицо попроще.
+					Phrase19: Эта морковка меня задолбала!
+					Phrase20: О, вернулся!
+				}
+
+				TownNPCMood: {
+					Content: Я счастлива! Мне нравится быть здесь. Тут так уютненько)
+					NoHome: Я бы хотела чтобы у меня был дом :(
+					FarFromHome: Я слишком далеко от дома. Это меня расстраивает :(
+					LoveSpace: Я люблю когда мало людей вокруг, не люблю лишние взгляды)
+					DislikeCrowded: Мне не нравится шум вокруг!
+					HateCrowded: Я ненавижу всех этих людей вокруг!!!
+					LikeNPC_Princess: Мне нравится {NPCName}.
+					Princess_LovesNPC: Мне нравится {NPCName}.
+					LoveBiome: Я люблю {BiomeName}.
+					LikeBiome: Мне нравится {BiomeName}.
+					DislikeBiome: Мне не нравится {BiomeName}.
+					LoveNPC: Я люблю {NPCName}.
+					LikeNPC: Мне нравится {NPCName}.
+					DislikeNPC: Мне не нравится {NPCName}.
+					HateNPC: Я ненавижу {NPCName}.
+				}
+			}
+
+			MiSidePlayer: {
+				DisplayName: Игрок (MiSide)
+				BestiaryDescription:
+					'''
+					Морально измотан, сдержан и интроспективен, что не позволяет ему быть открыто веселым.
+					Он часто сомневается в своих собственных словах и решениях, но эта неуверенность в себе уравновешивается тихой решимостью.
+					'''
+				Phrase1: Хм-м...
+				Phrase2: Где я?
+				Phrase3: Сердце колит, в глазах шумит.
+				Phrase4: Я часто сижу за компьютером... Тружусь.
+				Phrase5: Я оказался здесь внезапно... И совсем не готов к этому.
+				Phrase6: Я уже будто начал привыкать.
+				Phrase7: А?
+				Phrase8: Что это за место?
+				Phrase9: Я успел повидать много... странного.
+				Phrase10: Э-э...
+				Phrase11: Хм... А что это за место?
+				Phrase12: Кажется, эта игра мне нравится.
+				Phrase13: Мне нравится котики.
+				Phrase14: Э-э-эх-х.
+
+				TownNPCMood: {
+					Content: Я счастлив! Мне нравится быть здесь. Тут спокойно.
+					NoHome: Я бы хотел чтобы у меня был дом.
+					FarFromHome: Я слишком далеко от дома.
+					LoveSpace: Мне нравится когда мало людей вокруг.
+					DislikeCrowded: Мне не нравится шум вокруг!
+					HateCrowded: Я ненавижу этих людей вокруг!!!
+					LikeNPC_Princess: Мне нравится {NPCName}.
+					Princess_LovesNPC: Мне нравится {NPCName}.
+					LoveBiome: Я люблю {BiomeName}.
+					LikeBiome: Мне нравится {BiomeName}.
+					DislikeBiome: Мне не нравится {BiomeName}.
+					LoveNPC: Я люблю {NPCName}.
+					LikeNPC: Мне нравится {NPCName}.
+					DislikeNPC: Мне не нравится {NPCName}.
+					HateNPC: Я ненавижу {NPCName}.
+				}
+			}
+
+			Mila: {
+				DisplayName: Мила
+				BestiaryDescription:
+					'''
+					Мила - эксцентричная и вызывающая личность, которая выделяет себя среди других Мит.
+					Судя по ее действиям, игрок - ее первый посетитель за много лет, и, несмотря на саркастический тон,
+					она тонко пытается удержать его рядом, демонстрируя свое стремление к дружескому общению.
+					'''
+
+				TownNPCMood: {
+					Content: Я счастлива! Мне нравится быть здесь. Тут так уютненько)
+					NoHome: Я бы хотела чтобы у меня был дом :(
+					FarFromHome: Я слишком далеко от дома. Это меня расстраивает :(
+					LoveSpace: Я люблю когда мало людей вокруг, не люблю лишние взгляды)
+					DislikeCrowded: Мне не нравится шум вокруг!
+					HateCrowded: Я ненавижу всех этих людей вокруг!!!
+					LikeNPC_Princess: Мне нравится {NPCName}.
+					Princess_LovesNPC: Мне нравится {NPCName}.
+					LoveBiome: Я люблю {BiomeName}.
+					LikeBiome: Мне нравится {BiomeName}.
+					DislikeBiome: Мне не нравится {BiomeName}.
+					LoveNPC: Я люблю {NPCName}.
+					LikeNPC: Мне нравится {NPCName}.
+					DislikeNPC: Мне не нравится {NPCName}.
+					HateNPC: Я ненавижу {NPCName}.
+				}
+			}
+
+			Cappie: {
+				DisplayName: Кепочка
+				BestiaryDescription:
+					'''
+					Кепочка — яркая, жизнерадостная, любящий музыку, танцы и актерское мастерство.
+					Она постоянно подшучивает над игроками, показывая свою конкурентную сторону.
+					Несмотря на игривый характер, она знает свои границы и никогда не переходит их, сохраняя дружеские отношения.
+					Хотя она полна энергии, Кэппи нельзя назвать легковесной.
+					'''
+
+				TownNPCMood: {
+					Content: Я счастлива! Мне нравится быть здесь. Тут так уютненько)
+					NoHome: Я бы хотела чтобы у меня был дом :(
+					FarFromHome: Я слишком далеко от дома. Это меня расстраивает :(
+					LoveSpace: Я люблю когда мало людей вокруг, не люблю лишние взгляды)
+					DislikeCrowded: Мне не нравится шум вокруг!
+					HateCrowded: Я ненавижу всех этих людей вокруг!!!
+					LikeNPC_Princess: Мне нравится {NPCName}.
+					Princess_LovesNPC: Мне нравится {NPCName}.
+					LoveBiome: Я люблю {BiomeName}.
+					LikeBiome: Мне нравится {BiomeName}.
+					DislikeBiome: Мне не нравится {BiomeName}.
+					LoveNPC: Я люблю {NPCName}.
+					LikeNPC: Мне нравится {NPCName}.
+					DislikeNPC: Мне не нравится {NPCName}.
+					HateNPC: Я ненавижу {NPCName}.
+				}
+			}
+		}
+
+		Items: {
+			MitasCap: {
+				DisplayName: Кепочка Миты
+				Tooltip: Та самая!
+			}
+
+			TravelRing: {
+				DisplayName: Кольцо путешественника
+				Tooltip:
+					'''
+					Увеличивает скорость передвижения на {0}%
+					Нажмите [KEY], чтобы телепортироваться в позицию мыши.
+					Телепортация невозможна, пока активно состояние хаоса
+					Работает, только если оно находится в слоте для аксессуаров!!!
+					'''
+			}
+
+			Carrot: {
+				DisplayName: Морковка
+				Tooltip:
+					'''
+					{$CommonItemTooltip.MediumStats}
+					«А потом резать морковку, а потом...»
+					'''
+			}
+
+			MartialArtsManual: {
+				DisplayName: Руководство по боевым искусствам
+				Tooltip:
+					'''
+					{$CommonItemTooltip.PercentIncreasedMeleeDamage}
+					Постоянное усиление
+					'''
+			}
+
+			ShootersManual: {
+				DisplayName: Руководство для стрелка
+				Tooltip:
+					'''
+					{$CommonItemTooltip.PercentIncreasedRangedDamage}
+					Постоянное усиление
+					'''
+			}
+
+			MagiciansManual: {
+				DisplayName: Руководство для мага
+				Tooltip:
+					'''
+					{$CommonItemTooltip.PercentIncreasedMagicDamage}
+					Постоянное усиление
+					'''
+			}
+
+			PokemonManual: {
+				DisplayName: Руководство по покемонам
+				Tooltip:
+					'''
+					{$CommonItemTooltip.PercentIncreasedSummonDamage}
+					Постоянное усиление
+					'''
+			}
+
+			GameConsole: {
+				DisplayName: Игровая консоль
+				Tooltip: Призывает Муху из этой игровой консоли, которая освещает вам путь
+			}
+
+			Ramen: {
+				DisplayName: Рамен
+				Tooltip: "{$CommonItemTooltip.MajorStats}"
+			}
+
+			AlarmClock: {
+				DisplayName: Будильник
+				Tooltip: Призывает Сломанную Миту, которая следует за вами
+			}
+
+			GameCartridge: {
+				DisplayName: Игровой картридж
+				Tooltip: «Бросьте игровой картридж прямо в лицо своим врагам»
+			}
+
+			MilasBook: {
+				DisplayName: Книга Милы
+				Tooltip:
+					'''
+					Выстреливает цифрами и буквами
+					«Сила знаний!»
+					'''
+			}
+		}
+
+		Keybinds.TravelRingHotKey.DisplayName: Кольцо путешественника
+
+		Buffs: {
+			GameConsoleBuff: {
+				DisplayName: Муха
+				Description: За вами следует Муха
+			}
+
+			AlarmClockBuff: {
+				DisplayName: Сломанная Мита
+				Description: За вами следует Сломанная Мита
+			}
+		}
+
+		Projectiles: {
+			// ExamplePetProjectile.DisplayName: Example Pet Projectile
+			// FlyPetProjectile.DisplayName: Fly Pet Projectile
+			// BrokenMitaPetProjectile.DisplayName: Broken Mita Pet Projectile
+			// GameCartridgeProjectile.DisplayName: Game Cartridge Projectile
+			// MilasBookProjectile.DisplayName: Milas Book Projectile
+		}
+	}
+}
