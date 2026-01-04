@@ -23,6 +23,13 @@ namespace MitaNPC.NPCs.TownNPCs.Mitas.Cappie
             NPCID.Sets.DangerDetectRange[Type] = 30;
         }
 
+        public override void SetDefaults()
+        {
+            base.SetDefaults();
+            NPC.width = 38;
+            NPC.height = 50;
+        }
+
         public override string GetChat()
         {
             WeightedRandom<string> chat = new();

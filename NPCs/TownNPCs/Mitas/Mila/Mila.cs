@@ -19,6 +19,13 @@ namespace MitaNPC.NPCs.TownNPCs.Mitas.Mila
     [AutoloadHead]
     public class Mila : MitaBase
     {
+        public override void SetDefaults()
+        {
+            base.SetDefaults();
+            NPC.width = 38;
+            NPC.height = 50;
+        }
+
         public override string GetChat()
         {
             WeightedRandom<string> chat = new();

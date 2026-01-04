@@ -55,8 +55,8 @@ Happiness conditions:
 
 Spawn conditions: Always (during the day)
 
-Source code of the mod: https://github.com/rzc0d3r/MitaNPC
-Discord channel: https://discord.gg/yX3VjHwu3B
+Source code of the mod: https://github.com/rzc00d3r/MitaNPC
+Discord channel: https://discord.gg/jwTRnFvCc2
 
 ################ Русский ################
 Ваши личные Миты из MiSide в Terraria!!!
@@ -115,5 +115,5 @@ Discord channel: https://discord.gg/yX3VjHwu3B
 
 Условия спавна: Всегда (в дневное время)
 
-Исходный код: https://github.com/rzc0d3r/MitaNPC
-Discord канал: https://discord.gg/yX3VjHwu3B
+Исходный код: https://github.com/rzc00d3r/MitaNPC
+Discord канал: https://discord.gg/jwTRnFvCc2

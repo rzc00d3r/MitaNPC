@@ -130,6 +130,13 @@ namespace MitaNPC.NPCs.TownNPCs.Mitas.Mita
     [AutoloadHead]
     public class Mita : MitaBase
     {
+        public override void SetDefaults()
+        {
+            base.SetDefaults();
+            NPC.width = 40;
+            NPC.height = 48;
+        }
+
         public override string GetChat()
         {
             WeightedRandom<string> chat = new();
